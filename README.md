@@ -17,4 +17,4 @@ sudo apt-get install ffmpeg
 `./yt2gm <YouTube Link> <upload mp3 filename>`
 
 ##Disclaimer
-No vlaidations whatsoever, this was cooked up to make my life easier. I am not resposible for any dragons or red weddings.
+No validations whatsoever, this was cooked up to make my life easier. I am not resposible for any dragons or red weddings.
