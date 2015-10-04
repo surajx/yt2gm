@@ -14,7 +14,7 @@ sudo apt-get install ffmpeg
 * During first run the Google Music API asks you to authenticate yourself via OAuth, for subsequent runs it's not required.
 
 ## Usage
-`./yt2gm <YouTube Link> <upload mp3 filename>`
+`./yt2gm.sh <YouTube Link> <upload mp3 filename>`
 
 ##Disclaimer
 No validations whatsoever, this was cooked up to make my life easier. I am not resposible for any dragons or red weddings.
